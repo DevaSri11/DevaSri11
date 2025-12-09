@@ -63,3 +63,52 @@
 
 
 ---
+
+## LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dd_23?theme=light" alt="LeetCode Stats" />
+</p>
+
+---
+
+## GitHub Analytics 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaSri11&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0078D7&text_color=333333" alt="TopLanguages" height="181px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevaSri11&show_icons=true&count_private=true"  alt="github stat"/>
+<img src="https://img.shields.io/badge/GitHub%20Streak-Active-green?style=flat-square" alt="GitHub Streak Badge" />
+<img src="https://streak-stats.demolab.com?user=DevaSri11&theme=default" alt="github streaks" />
+
+[![SwathiK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevaSri11&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## GitHub Trophy's
+<p align="center">
+  <img src="https://github-profile-trophy-git-master.ryo-ma.vercel.app/?username=DevaSri11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8" width="100%" />
+</p>
+
+##  
+- 
+- 
+- 
+- Advanced Data Structures & Algorithms
+- Problem Solving techniques and optimization
+
+---
+
+##  Connect with Me  
+<p align="left">
+  <a href="https://github.com/DevaSri11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:devasridofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>  
+
+---
+
+<div align="center">
+
+###  My Facts
+*""*
+
+**⭐ From [Deva Sri D](https://github.com/DevaSri11)**
+
+</div>
