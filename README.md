@@ -59,7 +59,7 @@
 | **LeetCode** | 188 | 1549 |
 | **CodeChef** | 695  | 1217 |
 | **Code Forces** | 20  | 889 |
-| **GeeksForGeeks, HackerRank <br> Coding ninja** | 130 | - |
+| **GeeksForGeeks, HackerRank <br> Coding ninja** | 120 | - |
 
 
 ---
