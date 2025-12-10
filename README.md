@@ -3,8 +3,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=911ED4&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Programmer+by+passion.;Growing+through+logic." alt="Typing SVG" /></a>
 </div>
-
-##  Technical Skills  
+<p>“A dedicated and passionate software engineer driven by curiosity and continuous learning. Looking forward to applying my technical knowledge, problem-solving ability, and creativity to contribute to innovative software development.”
+</p>
+  Technical Skills  
 
 <table align="center" width="100%">
   <tr>
@@ -50,13 +51,13 @@
 
 <br>
 
-##  DSA & Problem Solving Achievements
+  DSA & Problem Solving Achievements
 
-###  **993 Problems Solved Across Platforms**
+##  **993 Problems Solved Across Platforms**
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 188 | 1549 |
+| **LeetCode** | 190 | 1549 |
 | **CodeChef** | 695  | 1217 |
 | **Code Forces** | 20  | 889 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja** | 120 | - |
@@ -107,7 +108,7 @@
 <div align="center">
 
 ###  My Facts
-*""*
+*"Building resilience in every commit."*
 
 **⭐ From [Deva Sri D](https://github.com/DevaSri11)**
 
