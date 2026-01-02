@@ -88,9 +88,6 @@
 </p>
 
 ##  
-- 
-- 
-- 
 - Advanced Data Structures & Algorithms
 - Problem Solving techniques and optimization
 
