@@ -81,8 +81,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevaSri11&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevaSri11)
-
 
 [![DevaSri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevaSri11&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
