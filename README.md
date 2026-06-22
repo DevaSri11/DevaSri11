@@ -58,7 +58,7 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 250 | 1618 |
-| **CodeChef** | 768  | 1467 |
+| **CodeChef** | 813  | 1546 |
 | **Code Forces** | 20  | 945 |
 | **GeeksForGeeks, HackerRank <br> Coding ninja** | 120 | - |
 
